@@ -605,7 +605,7 @@ typedef struct tagVxD_Desc_Block
 #define VMM__Set_PM_Exec_Mode 138
 
 #define VMM__Begin_Use_Locked_PM_Stack 139
-#define VMM__End_Use_Locked_PM_Stack 149
+#define VMM__End_Use_Locked_PM_Stack 140
 
 #define VMM__Save_Client_State 141
 #define VMM__Restore_Client_State 142
